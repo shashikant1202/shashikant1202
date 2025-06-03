@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">💻 Tech Enthusiast | 👨‍🎓 B.Tech CSE-AI @ GEC Lakhisarai | 🚀 Exploring Dev & DSA</h2>
-
+ o9
 <p align="center">
   <a href="mailto:shashikantsinghofficial@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -29,7 +29,7 @@
 </p>
 
 ---
-
+  
 ## <p align="center">🧠 Tech Stack</p>
 
 ### <p align="center">🔤 Programming Languages</p>
